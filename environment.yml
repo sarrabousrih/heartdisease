@@ -1,4 +1,4 @@
-name: heartdiseasee
+name: heartdisease
 channels:
   - defaults
 dependencies:
