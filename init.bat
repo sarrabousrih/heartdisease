@@ -1,0 +1,1 @@
+conda create -n heartdisease python=3.11
