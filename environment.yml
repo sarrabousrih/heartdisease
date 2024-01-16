@@ -1,0 +1,12 @@
+name: heartdiseasee
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip :
+    - numpy
+    - jupyter
+    - matplotlib
+    - pandas
+    - scikit-learn
